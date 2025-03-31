@@ -1,4 +1,4 @@
-# **Python Programming for Beginners*
+# **Python Programming for Beginners**
     
 *31 March - 2 April 2025*
 
@@ -31,7 +31,7 @@ Statsmodels, Numpy
 
 The workshop is scheduled to take place from March 31st to April 2nd, 2025 with sessions held daily from 9:00 AM to 2:00 PM South African Standard Time (SAST).
 
-# 5. Presenters:
+# 4. Presenters:
 
 - Dr Sunday Oladejo
 
